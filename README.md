@@ -37,6 +37,7 @@ Growth in 2023–2024 was driven by **pothole requests** (2,645 in 2022 → 7,63
 Demand is highly concentrated: **98 of 799 service types (12%) generate 80% of requests.** Emergency Management and Community Safety (10.7%) and Mobility (9.7%) carry the most requests.
 
 ### 3. Service performance
+![Days to resolve by department](images/resolution_by_department.png)
 The **90th percentile** (how long the slowest 10% of requests take) reveals problems the median hides:
 
 | Department | Median days | 90th percentile days | Closed within 7 days |
@@ -58,6 +59,7 @@ The **90th percentile** (how long the slowest 10% of requests take) reveals prob
 *Ages measured in September 2026.*
 
 ### 5. Communities: requests per 1,000 residents
+![Highest 311 demand per 1,000 residents](images/per_capita_communities.png)
 Per-capita demand is highest in established inner-city communities, at **1.7–2.8 times the community average**. Needs differ by community:
 
 - **Inglewood:** graffiti is 10% of all requests.
