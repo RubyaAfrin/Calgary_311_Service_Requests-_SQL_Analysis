@@ -21,6 +21,8 @@ An end-to-end SQL analysis of **2.5 million** City of Calgary 311 service reques
 ## Business questions and results
 
 ### 1. Demand trends
+![Monthly Request for services from 2021-2025 ](images/request_by_month.png)
+
 Excluding duplicates, requests rose to a peak of **546,139 in 2023** (+9.6%), then fell 7.2% in 2024 and 5.0% in 2025.
 
 | Year | Requests | Change |
