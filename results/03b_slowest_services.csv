@@ -1,0 +1,16 @@
+service_name,agency,closed_requests,median_days,p90_days
+Roads - Signs - Traffic and Roadmarking,OS - Mobility,11126,195.5,1362.5
+Roads - Signs - Parking,OS - Mobility,9684,14.0,635.0
+"Roads - NEW Signal, Left Turn or Pedestrian Light Request",OS - Mobility,2240,346.0,617.0
+Roads - Signs - Missing - Damaged,TRAN - Roads,8592,242.0,502.0
+Roads - Signs - Missing - Damaged,OS - Mobility,18019,230.0,479.0
+WATS - Erosion and Sediment Control,OS - Water Services,2272,33.0,475.9000000000001
+Roads - Pavement Markings - Missing or Faded,OS - Mobility,1045,91.0,415.0
+Active Living Program Application,CS - Recreation and Social Programs,3678,118.0,378.0
+Active Living Program Application,CS - Calgary Recreation,1146,117.0,355.0
+Roads - Signs - Traffic and Roadmarking,TRAN - Roads,2907,2.0,344.2000000000003
+Roads - Fence - Noise Barrier - Retaining Wall Repair,OS - Mobility,3094,4.0,293.7000000000003
+WATS - Water Meter Installation Request,OS - Water Services,2746,14.0,287.5
+Roads - Sidewalk - Curb and Gutter Repair,OS - Mobility,12416,6.0,283.5
+Roads - Signs - Parking,TRAN - Roads,3344,5.0,258.7000000000003
+WATS - Service and Main Valve Issues,OS - Water Services,7458,108.0,247.0

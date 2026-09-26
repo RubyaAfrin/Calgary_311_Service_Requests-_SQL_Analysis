@@ -1,0 +1,16 @@
+rnk,service_name,agency,requests,pct_of_all,cumulative_pct
+1,WRS - Cart Management,OS - Waste and Recycling Services,75154,2.99,3.0
+2,Finance - Property Tax Account Inquiry,CFOD - Finance,62738,2.5,5.5
+3,Finance - ONLINE TIPP Agreement Request,CFOD - Finance,52954,2.11,7.6
+4,WRS - Cart Management,UEP - Waste and Recycling Services,46784,1.86,9.5
+5,AT - Property Tax Account Inquiry,CPFS - Assessment and Tax,43906,1.75,11.2
+6,CBS Inspection - Electrical,PD - Calgary Building Services,38052,1.51,12.7
+7,Bylaw - Long Grass - Weeds Infraction,CS - Emergency Management and Community Safety,35365,1.41,14.1
+8,Bylaw - Snow and Ice on Sidewalk,CS - Emergency Management and Community Safety,33199,1.32,15.4
+9,Corporate - Graffiti Concerns,CS - Emergency Management and Community Safety,30712,1.22,16.7
+10,Bylaw - Snow and Ice on Sidewalk,CS - Calgary Community Standards,30333,1.21,17.9
+11,Parks - Tree Concern - GIS,OS - Parks and Open Spaces,29505,1.17,19.0
+12,Finance - Property Tax Account Inquiry,CPFS - Assessment and Tax,28757,1.14,20.2
+13,CBS Inspection - Residential Improvement Project - RIP,PD - Calgary Building Services,26845,1.07,21.3
+14,Parks - Tree Concern - WAM,CS - Calgary Parks,26596,1.06,22.3
+15,WRS - Waste - Residential,OS - Waste and Recycling Services,25697,1.02,23.3

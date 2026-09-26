@@ -1,0 +1,26 @@
+agency,closed_requests,median_days,p90_days,pct_closed_within_7_days
+OS - Mobility,229764,2.0,250.0,70.8
+OS - Water Services,106798,2.0,71.0,66.6
+TRAN - Roads,145352,1.0,69.0,73.4
+CS - Recreation and Social Programs,58418,9.0,64.0,47.6
+CFOD - Customer Services and Communications,23346,0.0,60.0,79.3
+CS - Calgary Recreation,17649,5.0,54.0,58.5
+CS - Calgary Fire,54691,6.0,46.0,61.0
+"PDS - Development, Business and Building Services",98682,4.0,39.0,73.4
+CS - Emergency Management and Community Safety,267815,7.0,38.0,53.4
+OS - Calgary Transit,59160,9.0,38.0,43.1
+CS - Calgary Community Standards,166793,6.0,34.0,57.5
+TRAN - Calgary Transit,38958,7.0,28.0,51.2
+UEP - Water Services,82759,2.0,26.0,66.7
+OS - Parks and Open Spaces,134974,3.0,25.0,72.8
+PICS - Customer Service and Communications,15512,2.0,17.0,77.4
+CS - Calgary Neighbourhoods,13577,6.0,14.0,62.0
+CS - Calgary Parks,84114,2.0,12.0,82.3
+CPFS - Assessment and Tax,127566,4.0,9.0,86.0
+PD - Calgary Building Services,170971,2.0,8.0,88.3
+CFOD - Finance,148946,5.0,8.0,89.8
+OS - Waste and Recycling Services,210018,2.0,8.0,89.4
+UEP - Waste and Recycling Services,127212,1.0,6.0,94.9
+Uepc - Waste and Recycling Services,5591,1.0,4.0,98.0
+OSC - Waste and Recycling Services,9380,1.0,4.0,98.5
+Corporate Wide Service Requests,12318,0.0,3.0,95.5
