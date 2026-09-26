@@ -58,7 +58,7 @@ The **90th percentile** (how long the slowest 10% of requests take) reveals prob
 
 *Ages measured in September 2026.*
 
-### 5. Communities: requests per 1,000 residents
+### 5. Communities: demand per 1,000 residents
 ![Highest 311 demand per 1,000 residents](images/per_capita_communities.png)
 Per-capita demand is highest in established inner-city communities, at **1.7–2.8 times the community average**. Needs differ by community:
 
